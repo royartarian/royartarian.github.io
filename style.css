@@ -1,3 +1,4 @@
-body, .content-body {
-    text-align: center;
+body,
+.content-body {
+  align-items: center;
 }
